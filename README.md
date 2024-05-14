@@ -5,4 +5,6 @@ Contents:
 * Images (thresholding): test images segmented using a lower threshold method,
 * Images (histogram-based): test images segmented using a histogram method,
 * Images (thresholding): test images segmented using a watershed method,
-* segmentation.py: image segmentation using the lower threshold, histogram or watershed methods written in Python.
+* segmentation.py: image segmentation using the lower threshold, histogram or watershed methods.
+
+Program for segmentation (segmentation.py) was written in Python. It uses implementations of segmentation methods from OpenCV.
